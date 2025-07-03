@@ -1,0 +1,7 @@
+# Alfred cache/state
+*.alfredpreferences
+*.plist~
+alfred-snippetcache/
+
+# macOS cruft
+.DS_Store
